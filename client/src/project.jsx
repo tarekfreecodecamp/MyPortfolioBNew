@@ -13,8 +13,11 @@ export default function Project() {
      <section id="works">
          
           <h2 className="worksTitle">Tarikul Khan</h2>
+         
           <span className="worksDesc">I take pride in paying attention to the smallest details and making sure my work is pixel perfect/ 
-          I am excited to bring my skills and experience to help businesses achieve their goals and create a strong online presence.</span> 
+          I am excited to bring my skills and experience to help businesses achieve their goals and create a 
+          strong online presence.</span> 
+         
           <div className="worksImgs">
                    <img src={project1} alt="project1" className="worksImg" />
                    <img src={project2} alt="project2" className="worksImg" />
