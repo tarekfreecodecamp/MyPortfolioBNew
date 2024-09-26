@@ -129,6 +129,10 @@ font-size:x-large;
   height: 1rem;
 }
 
+.introContent {
+  background-color: #bbd323;
+}
+
 @media screen and (max-width:480px){
   .bg {
     right: -20vw

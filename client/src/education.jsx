@@ -28,7 +28,7 @@ export default function Education() {
            
            <a href="https://google.com" >
             <button className="eduButton">
-              Go back to main page
+              Go to Google.com
             </button>
             </a>
             
@@ -40,7 +40,7 @@ export default function Education() {
           
            <a href="https://google.com" >
             <button className="homePageButton">
-              Go back to home
+            Go to Google.com
             </button>
             </a>
              
@@ -53,7 +53,7 @@ export default function Education() {
          
            <a href="https://google.com" >
             <button className="aboutPageButton">
-              Go back to home
+            Go to Google.com
             </button>
             </a>
             
