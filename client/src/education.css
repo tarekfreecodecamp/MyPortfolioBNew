@@ -1,0 +1,35 @@
+.backgroundname {
+    background-color: beige;
+}
+.eduButton{
+
+background-color: hsl(200, 100%, 50%) ;
+color: white;
+border-radius: 10px;
+border: none;
+border-radius: 0%;
+cursor: pointer;
+margin: 10px;
+
+
+}
+
+.homePageButton{
+    background-color: hsl(200, 100%, 50%) ;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    border-radius: 0%;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.aboutPageButton {
+    background-color: hsl(200, 100%, 50%) ;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    border-radius: 0%;
+    cursor: pointer;
+    margin: 10px;
+}

@@ -12,7 +12,7 @@ export default function Project() {
      
      <section id="works">
          
-          <h2 className="worksTitle">My Projects</h2>
+          <h2 className="worksTitle">Tarikul Khan</h2>
           <span className="worksDesc">I take pride in paying attention to the smallest details and making sure my work is pixel perfect/ 
           I am excited to bring my skills and experience to help businesses achieve their goals and create a strong online presence.</span> 
           <div className="worksImgs">
@@ -25,9 +25,11 @@ export default function Project() {
                   
                
                </div>
-
+           <div>
+           <a href="https://google.com" >
           <button className="workBtn">See More</button>
-                  
+          </a>
+             </div>      
                   
      </section>
     
